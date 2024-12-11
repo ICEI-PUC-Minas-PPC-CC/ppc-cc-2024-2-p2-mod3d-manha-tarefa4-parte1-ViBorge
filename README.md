@@ -8,6 +8,10 @@
 
 - Vinicius Borges de Souza
 
+
+![Captura de tela 2024-12-11 133800](https://github.com/user-attachments/assets/f9550f36-a250-472e-8a1a-5c41e48c6730)
+![Captura de tela 2024-12-11 133739](https://github.com/user-attachments/assets/90c0948e-7267-47ca-8431-2cc7b5df1e07)
+
 ## Professor
 
 - Will
