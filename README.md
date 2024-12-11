@@ -6,14 +6,11 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Vinicius Borges de Souza
 
 ## Professor
 
-- Mestre Yoda
+- Will
 
 # Documentação
 
